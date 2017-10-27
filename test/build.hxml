@@ -1,0 +1,13 @@
+-D source-header=script: js
+
+-main Main.hx
+# -cp src/
+-lib tic_hx
+
+-D js-classic
+
+-js build/game.js
+
+-dce full
+
+-cmd "path_to_tic/tic.exe game.tic -code build/game.js"

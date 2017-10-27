@@ -1,0 +1,10 @@
+{
+	"name": "tic_hx",
+	"url": "https://github.com/RudenkoArts/tic_hx",
+	"license": "MIT",
+	"tags": ["bindings", "tic"],
+	"description": "haxe bindings for tic fantasy console",
+	"version": "0.0.1",
+	"releasenote": "",
+	"contributors": ["RudenkoArts"]
+}
